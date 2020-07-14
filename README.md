@@ -1,5 +1,7 @@
 # Telegram-Search-Book-Bot
-# Installation 
+## Installation 
 ```pip install pytelegrambotapi ```
+### BeautifulSoup
 ``` pip install beautifulsoup4 ```
+### Google Searcher
 ``` pip install google ```
